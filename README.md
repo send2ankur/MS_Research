@@ -22,4 +22,4 @@ Description of files, along with order of execution
 3. Final_Plots.R -- Exploratory data analysis of Daily and Hourly data 
 4. TimeSeries_Models.R -- ARIMAX model for hourly PM2.5 forecasting
 5. Final_Models.R -- MLR, SVM, Random Forest and XGBoost models for hourly PM2.5 forecasting
-6. Final_Results.R -- Evaluate forecast models against observed data from 1st Jan 2020 - 15th Jan 2020 and analyze the fit
+6. Final_Results.R -- Evaluate forecasts against observed data from 1st Jan 2020 - 15th Jan 2020 and analyze the fit
